@@ -1,0 +1,126 @@
+.body{
+    font-family: 'noto sans';
+    background-color: #EDF2C5;  
+}
+
+.container{
+    width: 1120px;
+    /* height: 964px; */
+    height: 837px;
+    margin:0 auto;
+}
+
+.main-title{
+    font-size: 44px;
+    color: #778A50 ;
+    font-weight: bold;
+    height: 62px;
+}
+
+.title-icon{
+    display: flex ;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: -10px;
+}
+
+.nav-list{
+    background-color: #778A50;
+    line-height: 44px;
+    width: 1120px;
+}
+
+.list li{
+    list-style-type: none;
+    display: inline;
+}
+
+.list li a{
+    text-decoration: none;
+    font-size: 16px;
+    color: #EDF2C5;
+    font-weight: bold;
+    margin: auto;
+    margin-right: 58px;
+}
+
+.content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.vegetables-title{
+    background-color:#778A50 ;
+    width: 528px;
+    line-height: 45px;
+}
+
+.vegetables-title-text{
+    color: #EDF2C5;
+    font-weight: bold;
+    font-size: 16px;
+    padding-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.pictures{
+    width: 528px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact-title{
+    background-color:#778A50 ;
+    width: 528px;
+    line-height: 45px;
+}
+
+.contact-title-text{
+    color: #EDF2C5;
+    font-weight: bold;
+    font-size: 16px;
+    padding-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.contact-word{
+    background-color: #F7FBDA;
+    color: #7D7D7D;
+    width: 528px;
+    height: 140px;
+}
+
+.contact-1{
+    padding-left: 16px;
+    padding-right: 16px;
+    /* margin-bottom: -8px; */
+    padding-top: 18px;
+}
+
+.line{
+    height: 1.5px;
+    width: 496px;
+    background-color: #7D7D7D;
+    margin: auto;
+}
+
+.information{
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.right-area{
+    font-size: 12px;
+}
+
+.footer{
+    background-color: #778A50;
+    height: 60px;
+    font-size: 12px;
+    color: #EDF2C5;
+    text-align: center;
+    line-height: 60px;
+}
